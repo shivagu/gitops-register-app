@@ -37,7 +37,6 @@ pipeline {
                   sh "git push https://github.com/shivagu/gitops-register-app.git main"
                 }
             }
-        }
-      
+        }      
     }
 }
